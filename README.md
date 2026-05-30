@@ -1,4 +1,4 @@
-# Hacathon
+# Hackathon
 # CivicConnect AI
 
 ## Problem Statement
