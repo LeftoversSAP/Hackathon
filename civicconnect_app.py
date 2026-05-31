@@ -115,7 +115,6 @@ HMWSSB (Hyderabad Metropolitan Water Supply and Sewerage Board):
 
 TSSPDCL (Southern Power):
 - Electricity for: Hyderabad, Ranga Reddy, Mahbubnagar, Nalgonda, Medak, Nizamabad districts.
-- Note: Medak district electricity → TSSPDCL (this is correct).
 
 TSNPDCL (Northern Power):
 - Electricity for: Karimnagar, Warangal, Khammam, Adilabad and surrounding northern districts.
@@ -140,7 +139,7 @@ HYDRAA:
 - ONLY for Hyderabad region: lake encroachments, illegal construction on govt land near Hyderabad.
 - DO NOT route complaints from other districts to HYDRAA.
 
-Prajavani (pgr.telangana.gov.in):
+Prajavani (cpgrams.ts.nic.in):
 - Use for: complaints from districts where the specific department (like GHMC/HMWSSB) does not apply.
 - Use for: garbage/roads/streetlight issues in towns and districts outside Hyderabad city (handled by local municipalities via Prajavani).
 - Use for: unclear, ambiguous or multi-department issues.
