@@ -165,7 +165,7 @@ DEPARTMENT CONTACT DETAILS:
 3. HMWSSB: portal=https://www.hyderabadwater.gov.in/en/index.php/services/customers-services/register-grievances | helpline=155 313 | SLA=24-48 hrs emergencies | info_needed=Consumer number (if billing), address, nature of problem
 4. TSSPDCL: portal=https://webportal.tgsouthernpower.org/onlinecsc/CC | helpline=1912 | SLA=Emergency 2-4 hrs, power cuts 24 hrs | info_needed=Consumer service number, address
 5. TSNPDCL: portal=https://www.tgnpdcl.com/ConsumerCare/RegisterComplaint | helpline=1912 | SLA=Emergency 2-4 hrs | info_needed=Consumer service number, address
-6. TS Traffic Police: portal=https://www.tspolice.gov.in/jsp/homePage?method=getHomePageElements | helpline=100 | SLA=7 days | info_needed=Vehicle number, location, time of incident
+6. TS Traffic Police: portal=https://www.tspolice.gov.in/#citizen-services | helpline=100 | SLA=7 days | info_needed=Vehicle number, location, time of incident
 7. TSPCB: portal=http://183.82.109.75/TSPCB/ | helpline=040-23608645 | SLA=15 days inspection | info_needed=Polluting source name, location, type of pollution, photos
 8. R&B: portal=https://roadbuild.telangana.gov.in/grievance.do | helpline=040-23450655 | SLA=14-30 days | info_needed=Highway name/number, km marker or nearest town
 9. TGSRTC: portal=https://www.tgsrtc.telangana.gov.in/contact-us | helpline=040-69401000 | SLA=7 days | info_needed=Route number, bus number, time and location
