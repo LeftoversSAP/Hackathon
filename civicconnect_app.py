@@ -190,7 +190,7 @@ Given the citizen's complaint, respond ONLY with a valid JSON object (no markdow
 # ── Groq client ───────────────────────────────────────────────────────────────
 @st.cache_resource
 def get_client():
-    return Groq()  # reads GROQ_API_KEY from environment variable
+    return Groq(api_key=st.secrets["GROQ_API_KEY"])  # reads GROQ_API_KEY from environment variable
 
 def analyse_complaint(complaint_text: str, language: str) -> dict:
     client = get_client()
