@@ -160,18 +160,18 @@ ROUTING DECISION TREE:
 4. If location is unclear → ask or route to Prajavani.
 
 DEPARTMENT CONTACT DETAILS:
-1. GHMC: portal=https://greenhyderabad.ghmc.gov.in/GrievanceRegistration.aspx | helpline=040-21111111 | SLA=7 days | info_needed=Ward/locality, landmark, description, consumer phone number
-2. HMDA: portal=https://www.hmda.gov.in/| helpline=1800-425-8838 | SLA=15 days | info_needed=Survey number, locality, photos, phone number
-3. HMWSSB: portal=https://www.hyderabadwater.gov.in/en/index.php/services/customers-services/register-grievances | helpline=155 313 | SLA=24-48 hrs emergencies | info_needed=Consumer number (if billing), address, nature of problem
-4. TSSPDCL: portal=https://webportal.tgsouthernpower.org/onlinecsc/CC | helpline=1912 | SLA=Emergency 2-4 hrs, power cuts 24 hrs | info_needed=Consumer service number, address
-5. TSNPDCL: portal=https://www.tgnpdcl.com/ConsumerCare/RegisterComplaint | helpline=1912 | SLA=Emergency 2-4 hrs | info_needed=Consumer service number, address
-6. TS Traffic Police: portal=https://www.tspolice.gov.in/#citizen-services | helpline=100 | SLA=7 days | info_needed=Vehicle number, location, time of incident
-7. TSPCB: portal=http://183.82.109.75/TSPCB/ | helpline=040-23608645 | SLA=15 days inspection | info_needed=Polluting source name, location, type of pollution, photos
-8. R&B: portal=https://roadbuild.telangana.gov.in/grievance.do | helpline=040-23450655 | SLA=14-30 days | info_needed=Highway name/number, km marker or nearest town
-9. TGSRTC: portal=https://www.tgsrtc.telangana.gov.in/contact-us | helpline=040-69401000 | SLA=7 days | info_needed=Route number, bus number, time and location
-10. Revenue Dept: portal=https://pgportal.gov.in/Home/LodgeGrievance | helpline=1100 | SLA=15-30 days | info_needed=Survey number, village/mandal/district, pattadar name
-11. Prajavani: portal=https://cpgrams.ts.nic.in/citizen/grievance.php  | helpline=1902 | SLA=30 days | info_needed=Nature of grievance, department if known, prior complaint ref if escalating
-12. HYDRAA: portal= https://hydra.org.in/contact-us/#google_vignette | helpline=9000113667 | SLA=7 days inspection | info_needed=Location, nearby landmark, survey number if known, photos
+1. GHMC: portal=https://greenhyderabad.ghmc.gov.in/GrievanceRegistration.aspx | helpline=040-21111111 | SLA=7 days | info_needed=Full name, phone number, email address, full address, description of the problem
+2. HMDA: portal=https://www.hmda.gov.in/ | helpline=1800-425-8838 | SLA=15 days | info_needed=Full name, email address, description of your question or complaint
+3. HMWSSB: portal=https://www.hyderabadwater.gov.in/en/index.php/services/customers-services/register-grievances | helpline=155313 | SLA=24-48 hrs emergencies | info_needed=Consumer account number (found on your water bill), mobile number
+4. TSSPDCL: portal=https://webportal.tgsouthernpower.org/onlinecsc/CC | helpline=1912 | SLA=Emergency 2-4 hrs, power cuts 24 hrs | info_needed=No specific info needed online — call helpline 1912 or visit your nearest TSSPDCL office
+5. TSNPDCL: portal=https://www.tgnpdcl.com/ConsumerCare/RegisterComplaint | helpline=1912 | SLA=Emergency 2-4 hrs | info_needed=No specific details required — keep your basic government ID (Aadhaar/Voter ID) ready
+6. TS Traffic Police: portal=https://www.tspolice.gov.in/#citizen-services | helpline=100 | SLA=7 days | info_needed=No specific details required — keep your basic government ID ready
+7. TSPCB: portal=http://183.82.109.75/TSPCB/ | helpline=040-23608645 | SLA=15 days inspection | info_needed=Complaint category and description, image or document evidence of the complaint, location details, your mobile number and email ID
+8. R&B: portal=https://roadbuild.telangana.gov.in/grievance.do | helpline=040-23450655 | SLA=14-30 days | info_needed=Full name, email address, mobile number (+91), full address, sector/category of grievance, name of the infrastructure (road/bridge), location of the bad stretch in km, nearest village/town/city name, type of damage, grievance description (max 200 characters), whether you have approached the authority before (if yes: authority name, date approached, response received), upload photos or representations if available
+9. TGSRTC: portal=https://www.tgsrtc.telangana.gov.in/contact-us | helpline=040-69401000 | SLA=7 days | info_needed=No additional details needed — just register with your email ID
+10. Revenue Dept: portal=https://pgportal.gov.in/Home/LodgeGrievance | helpline=1100 | SLA=15-30 days | info_needed=Mobile number or email ID or username, password (for portal login), address, gender
+11. Prajavani: portal=https://cpgrams.ts.nic.in/citizen/grievance.php | helpline=1902 | SLA=30 days | info_needed=Full address, city/town/village, post office, pincode, district, mandal, village, mobile number, relevant supporting documents
+12. HYDRAA: portal=https://hydra.org.in/contact-us/#google_vignette | helpline=9000113667 | SLA=7 days inspection | info_needed=No specific info needed — call helpline or visit the office directly
 
 TASK:
 Given the citizen's complaint, respond ONLY with a valid JSON object (no markdown, no explanation) with this exact structure:
